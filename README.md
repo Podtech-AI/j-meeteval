@@ -293,7 +293,7 @@ python3 evaluation/meeting_evaluation_main.py \
 
 ## ライセンス
 
-Apache License 2.0
+検討中
 
 ## 貢献・サポート
 
