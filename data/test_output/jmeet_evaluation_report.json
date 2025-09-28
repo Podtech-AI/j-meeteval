@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "prompt_accuracy": 0.0,
+    "instruction_accuracy": 0.0,
+    "total_evaluated": 10
+  },
+  "category_performance": {
+    "meeting_structure": 0.0,
+    "meeting_format": 0.0,
+    "meeting_content": 0,
+    "meeting_preparation": 0,
+    "meeting_followup": 0
+  },
+  "complexity_breakdown": {
+    "single_instruction": {
+      "count": 7,
+      "accuracy": 0.0,
+      "percentage": 70.0
+    },
+    "double_instruction": {
+      "count": 3,
+      "accuracy": 0.0,
+      "percentage": 30.0
+    },
+    "multiple_instruction": {
+      "count": 0,
+      "accuracy": 0,
+      "percentage": 0
+    }
+  },
+  "error_summary": {
+    "error_patterns": {},
+    "total_errors": 0,
+    "most_common_error": null,
+    "instructions_with_most_errors": []
+  },
+  "performance": {
+    "avg_execution_time": 7.669925689697265e-05,
+    "min_execution_time": 1.9073486328125e-06,
+    "max_execution_time": 0.00020694732666015625
+  },
+  "detailed_instruction_rates": {
+    "meeting_structure:agenda_format": 0.0,
+    "meeting_structure:participants_list": 0.0,
+    "meeting_format:minutes_structure": 0.0,
+    "meeting_structure:time_management": 0.0,
+    "meeting_format:action_items": 0.0,
+    "meeting_structure:location_setting": 0.0,
+    "meeting_format:decisions_format": 0.0
+  },
+  "timestamp": "2025-09-27T16:59:53.740651"
+}
